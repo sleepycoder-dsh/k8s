@@ -14,6 +14,6 @@ spec:
     spec: 
       containers: 
         - name: backend 
-          image: gcr.io/YOUR_PROJECT_ID/backend:latest 
+          image: gcr.io/modern-spirit-475318-r3/backend:latest 
           ports: 
             - containerPort: 8080 
